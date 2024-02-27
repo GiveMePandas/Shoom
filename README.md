@@ -43,3 +43,7 @@ Guess | Score
 
 ## Statistics 
 ***This section is still in progress and being determined at this time***
+
+# App Versions
+Version 1 - game outline
+Version 1.1 - has game giving no errors when running, noticable issues present
